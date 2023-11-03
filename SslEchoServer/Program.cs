@@ -25,7 +25,7 @@ namespace SslEchoServer
         private static SslServer _sslserver;
         private static bool _clientConnected;
         private static bool _authenticated;
-        private static string _serverCertificateFile = "C:/certificate2/echoServerContainer.pfx";
+        private static string _serverCertificateFile = "C:/certificates/echoServerContainer.pfx";
         private static string _serverCertificateFilePassword = "";
 
 
